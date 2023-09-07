@@ -1,0 +1,53 @@
+.buysell-outer{
+    background-color: rgb(206, 232, 255);
+    /* width: 400px; */
+    height:380px;
+    margin: auto;
+     
+}
+.buysell-text{
+    font-size: xx-large;
+    text-align: center;
+}
+.buysell-inner{
+    font-size: large;
+    padding-left:20px;
+    padding-top: 20px;
+}
+.btn-buysell{
+    background-color:rgb(33, 33, 105) ;
+    color: white;
+    margin: 2% 3%;
+    height: 50px;
+    width: 40%;
+    border-radius: 8px;
+    font-size: larger;
+}
+.buysell-txt{
+    font-size:large;
+    padding-bottom: 5px;
+    border: 1px solid black;
+    
+   padding-top: 6px;
+}
+.buysell-from{
+    width:90%;
+    height: 35px;
+     
+}
+.buysell-into{
+  
+    text-align: center;
+    font-size: large;
+    padding-top: 10px;
+}
+.buysell-amt{
+    width:80%;
+    height: 35px;
+   
+}
+
+.amount-disp{
+    text-align: center;
+    padding-top: 10px;
+}

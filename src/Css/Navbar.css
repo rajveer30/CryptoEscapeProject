@@ -1,0 +1,43 @@
+.mynav{
+    background-color: rgb(33, 33, 105);
+}
+
+.mynav a{
+    color: white;
+    font-size: large;
+
+
+}
+.mynav a:hover{
+    color:rgb(71, 197, 247);
+}
+.mynav svg{
+  margin-right: 10px;
+  height: 25px;
+  width: 25px;
+  color:white;
+  
+}
+.mynav .mylogo{
+    height: 80px;
+    width: 220px;
+}
+.navbar-brand{
+    font-size: x-large;
+}
+
+.navbar-ele{
+    margin-left: 25%;
+
+}
+.navbar-ele .nav-item{
+    margin: 0 20px;
+
+}
+@media only screen and (max-width: 1000px) {
+    .navbar-ele{
+        margin-left:0;
+    
+    }
+    
+  }

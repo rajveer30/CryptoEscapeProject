@@ -1,0 +1,40 @@
+.conv-outer{
+    background-color: rgb(206, 232, 255);
+    /* width: 400px; */
+    /* height:380px; */
+    margin: auto;
+     
+}
+.conv-text{
+    font-size: xx-large;
+    text-align: center;
+}
+.conv-inner{
+    font-size: large;
+    padding-left:20px;
+}
+#convert{
+    background-color:rgb(33, 33, 105) ;
+    color: white;
+    margin: 10px;
+    height: 50px;
+    width: 90%;
+    border-radius: 8px;
+    font-size: larger;
+}
+.conv-txt{
+    font-size: medium;
+    padding-bottom: 5px;
+}
+.conv-from{
+    width:90%;
+    height: 35px;
+    padding: 5px;
+   
+}
+.convert-into{
+    border: 1px solid white;
+    text-align: center;
+    font-size: large;
+    padding-top: 10px;
+}

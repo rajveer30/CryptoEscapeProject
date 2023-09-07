@@ -1,0 +1,18 @@
+.intro-img{
+    height: 320px;
+    width: 70%;
+    margin:20px ;
+}
+.intro{
+    justify-content: center;
+    background-color: rgb(206, 232, 255);
+    padding:30px 30px;
+}
+.intro-txt p{
+    font-size: x-large;
+    color: black;
+}
+.intro h1{
+    font-family: 'Times New Roman', Times, serif;
+   
+}

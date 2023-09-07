@@ -1,0 +1,64 @@
+.home-outer{
+background-color:#222222;
+width:500px;
+height:450px;
+margin: auto;
+
+}
+.home{
+background-color: rgb(206, 232, 255);
+height:100%;
+padding-top: 50px;
+padding-bottom: 80px; 
+}
+.home-login{
+    text-align: center;
+    font-size: xx-large;
+    border-bottom: 2px solid rgb(33, 33, 105);
+    color: rgb(206, 232, 255);
+    font-weight: 500;
+   
+}
+.home-inner{
+    text-align: center;
+
+}
+.home p{
+    color: white;
+}
+#btn{
+    background-color:rgb(33, 33, 105) ;
+    color: white;
+    margin: 10px;
+    height: 40px;
+    width: 70px;
+    border-radius: 8px;
+    font-size: larger;
+}
+#btn:hover{
+    background-color: rgb(206, 232, 255);
+    color: black;
+}
+
+.home-log label{
+    font-size: x-large;
+    margin:10px;
+    color: white    ;
+    
+}
+.home-log{
+    padding-top: 20px;;
+}
+
+.home2-txt{
+    font-size: xx-large;
+    color: black;
+}
+.home2-img{
+    height: 320px;
+    width: 70%;
+    margin:20px ;
+}
+.home2{
+    justify-content: center;
+}

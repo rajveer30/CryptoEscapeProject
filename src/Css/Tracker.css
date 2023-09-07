@@ -1,0 +1,21 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.tracker{
+    background-color:#222222;
+    height: 100vh;
+}
+.tracker .track-btn{
+display: flex;
+justify-content: end;
+padding: 20px;
+}
+ #currency{
+    width: 80px;
+}
